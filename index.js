@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('virtkick');
+require('virtkick/virtkick-cli');
