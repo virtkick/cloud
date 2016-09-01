@@ -1,6 +1,6 @@
 {
   "name": "cloud",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Control cloud with command line",
   "main": "index.js",
   "bin": {
